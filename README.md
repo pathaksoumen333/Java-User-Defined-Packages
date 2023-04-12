@@ -15,6 +15,9 @@ This package allows you to to display fibonacci series upto n numbers.
 
 Prime.Primepack: 
 This package allows use to find the if the number is or not.
+
+SortArr.Sortarraypack:
+This package allows user to sort arrays using bubble sort or selection sort technique.
 -------------------------------------------------------------------------------------------------------------------------
 More packages Including soon.....
 Star my Reprository soon will add master Package..
